@@ -1,0 +1,296 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Pro6_64010845",
+            "request": "launch",
+            "mainClass": "Week10.Pro6_64010845",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro5_64010845",
+            "request": "launch",
+            "mainClass": "Week10.Pro5_64010845",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_14_28",
+            "request": "launch",
+            "mainClass": "shit.Exercise_14_28",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro4_64010845",
+            "request": "launch",
+            "mainClass": "Week10.Pro4_64010845",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClockPane",
+            "request": "launch",
+            "mainClass": "Week10.ClockPane",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010845",
+            "request": "launch",
+            "mainClass": "Week10.Pro3_64010845",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010845",
+            "request": "launch",
+            "mainClass": "Week10.Pro2_64010845",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845",
+            "request": "launch",
+            "mainClass": "Week10.Pro1_64010845",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845",
+            "request": "launch",
+            "mainClass": "Week1.Pro1_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010845",
+            "request": "launch",
+            "mainClass": "Week1.Pro2_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010845",
+            "request": "launch",
+            "mainClass": "Week1.Pro3_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro4_64010845",
+            "request": "launch",
+            "mainClass": "Week1.Pro4_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week2ex1",
+            "request": "launch",
+            "mainClass": "Week2.week2ex1",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week2ex2",
+            "request": "launch",
+            "mainClass": "Week2.week2ex2",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week2ex3",
+            "request": "launch",
+            "mainClass": "Week2.week2ex3",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week2ex4",
+            "request": "launch",
+            "mainClass": "Week2.week2ex4",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week2ex5",
+            "request": "launch",
+            "mainClass": "Week2.week2ex5",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week3ex1",
+            "request": "launch",
+            "mainClass": "Week3.week3ex1",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week3ex2",
+            "request": "launch",
+            "mainClass": "Week3.week3ex2",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch week3ex3",
+            "request": "launch",
+            "mainClass": "Week3.week3ex3",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845(1)",
+            "request": "launch",
+            "mainClass": "Week4.Pro1_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010845(1)",
+            "request": "launch",
+            "mainClass": "Week4.Pro2_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010845(1)",
+            "request": "launch",
+            "mainClass": "Week4.Pro3_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845(2)",
+            "request": "launch",
+            "mainClass": "Week5.Pro1_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010845(2)",
+            "request": "launch",
+            "mainClass": "Week5.Pro2_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845(3)",
+            "request": "launch",
+            "mainClass": "Week6.Pro1_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010845(3)",
+            "request": "launch",
+            "mainClass": "Week6.Pro2_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010845(2)",
+            "request": "launch",
+            "mainClass": "Week6.Pro3_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro4_64010845(1)",
+            "request": "launch",
+            "mainClass": "Week6.Pro4_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro5_64010845",
+            "request": "launch",
+            "mainClass": "Week6.Pro5_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro6_64010845",
+            "request": "launch",
+            "mainClass": "Week6.Pro6_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845(4)",
+            "request": "launch",
+            "mainClass": "Week7.Q1.Pro1_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010845(4)",
+            "request": "launch",
+            "mainClass": "Week7.Q2.Pro2_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010845(3)",
+            "request": "launch",
+            "mainClass": "Week7.Q3.Pro3_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845(5)",
+            "request": "launch",
+            "mainClass": "Week8.Q1.Pro1_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010845(5)",
+            "request": "launch",
+            "mainClass": "Week8.Q2.Pro2_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010845(4)",
+            "request": "launch",
+            "mainClass": "Week8.Q3.Pro3_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010845(5)",
+            "request": "launch",
+            "mainClass": "Week8.Q4.Pro3_64010845",
+            "projectName": "Lab_bccff4bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010845(6)",
+            "request": "launch",
+            "mainClass": "Week9.Pro1_64010845",
+            "projectName": "Lab_bccff4bf",
+            "vmArgs": "--module-path \"C:/Java/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
